@@ -16,3 +16,4 @@ jobs:
           yarn lint
           yarn test
         working-directory: ./schema
+
